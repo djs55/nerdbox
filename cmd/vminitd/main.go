@@ -53,6 +53,7 @@ import (
 	_ "github.com/containerd/nerdbox/plugins/vminit/socketforward"
 	_ "github.com/containerd/nerdbox/plugins/vminit/streaming"
 	_ "github.com/containerd/nerdbox/plugins/vminit/task"
+	_ "github.com/containerd/nerdbox/plugins/vminit/tracing"
 )
 
 func main() {
