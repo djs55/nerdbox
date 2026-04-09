@@ -25,10 +25,6 @@ require (
 	github.com/stretchr/testify v1.11.1
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
-<<<<<<< HEAD
-=======
-	go.opentelemetry.io/proto/otlp v1.9.0
->>>>>>> ce639c5 (go.mod: remove OTel SDK and otelttrpc dependencies)
 	golang.org/x/sync v0.20.0
 	golang.org/x/sys v0.43.0
 	google.golang.org/grpc v1.80.0
@@ -36,12 +32,7 @@ require (
 )
 
 require (
-<<<<<<< HEAD
 	github.com/Microsoft/hcsshim v0.15.0-rc.1 // indirect
-	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-=======
-	github.com/Microsoft/hcsshim v0.14.0-rc.1 // indirect
->>>>>>> ce639c5 (go.mod: remove OTel SDK and otelttrpc dependencies)
 	github.com/cilium/ebpf v0.16.0 // indirect
 	github.com/containerd/continuity v0.4.5 // indirect
 	github.com/containerd/platforms v1.0.0-rc.4 // indirect
@@ -51,11 +42,6 @@ require (
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 // indirect
-<<<<<<< HEAD
-=======
-	github.com/google/go-cmp v0.7.0 // indirect
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.28.0 // indirect
->>>>>>> ce639c5 (go.mod: remove OTel SDK and otelttrpc dependencies)
 	github.com/josharian/native v1.1.0 // indirect
 	github.com/klauspost/compress v1.18.5 // indirect
 	github.com/mdlayher/packet v1.1.2 // indirect
@@ -70,18 +56,11 @@ require (
 	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/u-root/uio v0.0.0-20230220225925-ffce2a382923 // indirect
 	go.opencensus.io v0.24.0 // indirect
-<<<<<<< HEAD
-	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
-	go.opentelemetry.io/otel v1.43.0 // indirect
-	go.opentelemetry.io/otel/metric v1.43.0 // indirect
-	go.opentelemetry.io/otel/trace v1.43.0 // indirect
-=======
-	go.opentelemetry.io/otel/sdk/metric v1.42.0 // indirect
->>>>>>> ce639c5 (go.mod: remove OTel SDK and otelttrpc dependencies)
 	golang.org/x/exp v0.0.0-20241108190413-2d47ceb2692f // indirect
 	golang.org/x/net v0.52.0 // indirect
 	golang.org/x/text v0.35.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260401024825-9d38bb4040a9 // indirect
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
